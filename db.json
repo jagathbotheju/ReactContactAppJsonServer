@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "3d637008-c67f-48d1-8312-4f3402603a3c",
+      "name": "jagath nalaka",
+      "email": "jagath@gmail.com"
+    },
+    {
+      "id": "ad1ae4e6-eb06-4569-aa93-aea9b56a0504",
+      "name": "menula meth",
+      "email": "menula@gmail.com"
+    },
+    {
+      "id": "da8c042e-9d26-4b70-b25f-f88566691520",
+      "name": "lithula neth",
+      "email": "lithula@gmail.com"
+    }
+  ]
+}
